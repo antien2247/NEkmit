@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52eaf34c-3954-4d7e-aed4-e226a5526ec7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/content (1).gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/content (1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/content (2).gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/content (2).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/content (3).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/demo-ave.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.7510478">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="demo.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/demo.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="918">
+                  <caret line="54" column="66" lean-forward="false" selection-start-line="54" selection-start-column="66" selection-end-line="54" selection-end-column="66" />
+                  <folding>
+                    <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="demo.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/demo.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="173" column="0" lean-forward="false" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>footer</find>
+      <find>.thumbn</find>
+      <find>b-link</find>
+      <find>b-top-line</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/demo-index.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/test-index.html" />
+        <option value="$PROJECT_DIR$/nháp.html" />
+        <option value="E:/home work HTML/ss14/index.html" />
+        <option value="E:/home work HTML/ss7/bai 6.html" />
+        <option value="$PROJECT_DIR$/longtasha.html" />
+        <option value="$USER_HOME$/OneDrive/Desktop/Real-TASHA/Real-TASHA/Real TASHA/index.html" />
+        <option value="$USER_HOME$/Downloads/Real-TASHA/Real TASHA/index.html" />
+        <option value="$USER_HOME$/OneDrive/Desktop/Real-TASHA/Real-TASHA/Real TASHA - Copy/index.html" />
+        <option value="$PROJECT_DIR$/tasha.html" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/Warranty.html" />
+        <option value="$PROJECT_DIR$/dăng ki.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/product.html" />
+        <option value="$PROJECT_DIR$/longproduct.html" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/css/baohanh.css" />
+        <option value="$PROJECT_DIR$/css/lienhe.css" />
+        <option value="$PROJECT_DIR$/css/sptien.css" />
+        <option value="$PROJECT_DIR$/css/splong.css" />
+        <option value="$PROJECT_DIR$/gioi thiêu.html" />
+        <option value="$PROJECT_DIR$/sptien.html" />
+        <option value="$PROJECT_DIR$/splong.html" />
+        <option value="$PROJECT_DIR$/lienhe.html" />
+        <option value="$PROJECT_DIR$/baohanh.html" />
+        <option value="$PROJECT_DIR$/gioithieu.html" />
+        <option value="$PROJECT_DIR$/css/gioithieu.css" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/reponsive_ave.html" />
+        <option value="$PROJECT_DIR$/nhap.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/demo-index.html" />
+        <option value="$PROJECT_DIR$/ave.html" />
+        <option value="$PROJECT_DIR$/css/ave.css" />
+        <option value="$USER_HOME$/Desktop/git/github/README.md" />
+        <option value="$PROJECT_DIR$/Nekmit.html" />
+        <option value="$PROJECT_DIR$/demo.html" />
+        <option value="$PROJECT_DIR$/css/Nekmit.css" />
+        <option value="$PROJECT_DIR$/css/demo.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="convert" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="convert" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="convert" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="convert" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo-ave" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\do an\css" />
+      <recent name="E:\do an" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52eaf34c-3954-4d7e-aed4-e226a5526ec7" name="Default" comment="" />
+      <created>1563092211701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563092211701</updated>
+      <workItem from="1563092212888" duration="5355000" />
+      <workItem from="1563205858332" duration="3832000" />
+      <workItem from="1563275450028" duration="1406000" />
+      <workItem from="1563292259106" duration="2449000" />
+      <workItem from="1563326145273" duration="1230000" />
+      <workItem from="1563345871661" duration="291000" />
+      <workItem from="1563346210258" duration="18685000" />
+      <workItem from="1563441928659" duration="1821000" />
+      <workItem from="1563447283589" duration="628000" />
+      <workItem from="1563540999002" duration="609000" />
+      <workItem from="1563611308645" duration="35000" />
+      <workItem from="1563626604248" duration="15830000" />
+      <workItem from="1564474313909" duration="3111000" />
+      <workItem from="1564560040277" duration="6472000" />
+      <workItem from="1564654714087" duration="1607000" />
+      <workItem from="1564830351105" duration="658000" />
+      <workItem from="1565248023314" duration="912000" />
+      <workItem from="1565249083989" duration="79000" />
+      <workItem from="1565249486490" duration="598000" />
+      <workItem from="1565320012023" duration="1427000" />
+      <workItem from="1565406518355" duration="2352000" />
+      <workItem from="1565434722342" duration="1486000" />
+      <workItem from="1565436522047" duration="8070000" />
+      <workItem from="1565445379664" duration="612000" />
+      <workItem from="1565502504294" duration="2169000" />
+      <workItem from="1565579016290" duration="4523000" />
+      <workItem from="1565618213925" duration="4777000" />
+      <workItem from="1565664060389" duration="142000" />
+      <workItem from="1565678833050" duration="17449000" />
+      <workItem from="1565710036384" duration="3467000" />
+      <workItem from="1565865365886" duration="1393000" />
+      <workItem from="1565923988236" duration="662000" />
+      <workItem from="1566403307130" duration="2444000" />
+      <workItem from="1566643472225" duration="1028000" />
+      <workItem from="1566644953423" duration="8116000" />
+      <workItem from="1566705209224" duration="598000" />
+      <workItem from="1566794195397" duration="11775000" />
+      <workItem from="1566829618611" duration="5055000" />
+      <workItem from="1566893847337" duration="1593000" />
+      <workItem from="1567066291038" duration="7113000" />
+      <workItem from="1567087301153" duration="914000" />
+      <workItem from="1567152617961" duration="600000" />
+      <workItem from="1567218759368" duration="21277000" />
+      <workItem from="1567307430997" duration="11433000" />
+      <workItem from="1567386638172" duration="368000" />
+      <workItem from="1567394416242" duration="24865000" />
+      <workItem from="1567424119262" duration="333000" />
+      <workItem from="1567444532865" duration="1548000" />
+      <workItem from="1567475935055" duration="24535000" />
+      <workItem from="1567736893851" duration="11717000" />
+      <workItem from="1567771582533" duration="4643000" />
+      <workItem from="1567820069148" duration="6668000" />
+      <workItem from="1567846631536" duration="13323000" />
+      <workItem from="1567913203438" duration="10336000" />
+      <workItem from="1567954332155" duration="598000" />
+      <workItem from="1567958837525" duration="1408000" />
+      <workItem from="1567992378128" duration="4994000" />
+      <workItem from="1568087044188" duration="1772000" />
+      <workItem from="1568271120252" duration="2680000" />
+      <workItem from="1568453071364" duration="827000" />
+      <workItem from="1568990429379" duration="1833000" />
+      <workItem from="1568996544052" duration="329000" />
+      <workItem from="1568997731819" duration="20000" />
+      <workItem from="1569024191737" duration="493000" />
+      <workItem from="1573921447943" duration="697000" />
+      <workItem from="1574525802556" duration="1340000" />
+      <workItem from="1574581867376" duration="41000" />
+      <workItem from="1574845845138" duration="606000" />
+      <workItem from="1575516645408" duration="188000" />
+      <workItem from="1576321981278" duration="598000" />
+      <workItem from="1576330700664" duration="1178000" />
+      <workItem from="1576378232468" duration="273000" />
+      <workItem from="1576590463224" duration="258000" />
+      <workItem from="1577025920555" duration="693000" />
+      <workItem from="1577071709699" duration="164000" />
+      <workItem from="1577751274434" duration="3536000" />
+      <workItem from="1577926773248" duration="599000" />
+      <workItem from="1578014968761" duration="1843000" />
+      <workItem from="1578099777262" duration="599000" />
+      <workItem from="1581908245616" duration="1326000" />
+      <workItem from="1583393968011" duration="699000" />
+      <workItem from="1583483518073" duration="883000" />
+      <workItem from="1583484937292" duration="20157000" />
+      <workItem from="1583585144102" duration="626000" />
+      <workItem from="1584440344445" duration="1265000" />
+      <workItem from="1584867932291" duration="100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="362237000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12664714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/test-index.html" />
+    <entry file="file://$PROJECT_DIR$/css/demo-index.css" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/nháp.html" />
+    <entry file="file://$PROJECT_DIR$/image/images (1).jpg" />
+    <entry file="file://E:/home work HTML/ss7/bai 6.html" />
+    <entry file="file://$USER_HOME$/OneDrive/Desktop/Real-TASHA/Real-TASHA/Real TASHA/index.html" />
+    <entry file="file://$PROJECT_DIR$/longtasha.html" />
+    <entry file="file://$USER_HOME$/Downloads/Real-TASHA/Real TASHA/index.html" />
+    <entry file="file://$PROJECT_DIR$/tasha.html" />
+    <entry file="file://$USER_HOME$/OneDrive/Desktop/Real-TASHA/Real-TASHA/Real TASHA - Copy/index.html" />
+    <entry file="file://E:/home work HTML/ss14/index.html" />
+    <entry file="file://$PROJECT_DIR$/login.html" />
+    <entry file="file://$PROJECT_DIR$/contact.html" />
+    <entry file="file://$PROJECT_DIR$/dăng ki.html" />
+    <entry file="file://$PROJECT_DIR$/Warranty.html" />
+    <entry file="file://$PROJECT_DIR$/longproduct.html" />
+    <entry file="file://$PROJECT_DIR$/js/npm.js" />
+    <entry file="file://$PROJECT_DIR$/js/index.js" />
+    <entry file="file://$PROJECT_DIR$/product.html" />
+    <entry file="file://$PROJECT_DIR$/css/lienhe.css" />
+    <entry file="file://$PROJECT_DIR$/css/sptien.css" />
+    <entry file="file://$PROJECT_DIR$/css/splong.css" />
+    <entry file="file://$PROJECT_DIR$/css/baohanh.css" />
+    <entry file="file://$PROJECT_DIR$/gioi thiêu.html" />
+    <entry file="file://$PROJECT_DIR$/sptien.html" />
+    <entry file="file://$PROJECT_DIR$/splong.html" />
+    <entry file="file://$PROJECT_DIR$/lienhe.html" />
+    <entry file="file://$PROJECT_DIR$/baohanh.html" />
+    <entry file="file://$PROJECT_DIR$/gioithieu.html" />
+    <entry file="file://$PROJECT_DIR$/css/gioithieu.css" />
+    <entry file="file://$PROJECT_DIR$/css/index_ave.css" />
+    <entry file="file://$PROJECT_DIR$/css/nhap.css" />
+    <entry file="file://$PROJECT_DIR$/css/reponsive.css" />
+    <entry file="file://$PROJECT_DIR$/css/reponsive_ave.css" />
+    <entry file="file://$USER_HOME$/Desktop/git/github/README.md" />
+    <entry file="file://$PROJECT_DIR$/nhap.html" />
+    <entry file="file://$PROJECT_DIR$/reponsive.html" />
+    <entry file="file://$PROJECT_DIR$/reponsive_ave.html" />
+    <entry file="file://$PROJECT_DIR$/test-index.html" />
+    <entry file="file://$PROJECT_DIR$/demo-index.html" />
+    <entry file="file://$PROJECT_DIR$/css/ave.css" />
+    <entry file="file://$PROJECT_DIR$/ave.html" />
+    <entry file="file://$PROJECT_DIR$/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/index_ave.html" />
+    <entry file="file://$PROJECT_DIR$/Nekmit.html" />
+    <entry file="file://$PROJECT_DIR$/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="173" column="0" lean-forward="false" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/content (3).png" />
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="66" lean-forward="false" selection-start-line="54" selection-start-column="66" selection-end-line="54" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
